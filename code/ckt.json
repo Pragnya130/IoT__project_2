@@ -3,7 +3,7 @@
   "author": "Pragnya",
   "editor": "wokwi",
   "parts": [
-    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 105.6, "left": 43.24, "attrs": {} },
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 105.6, "left": 43.24, "attrs": {} {} },
     {
       "type": "chip-soil-moisture-sensor",
       "id": "sen1",
