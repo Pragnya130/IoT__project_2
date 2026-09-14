@@ -7,7 +7,7 @@ typedef struct {
   float moisture;
 } chip_data_t;
 
-void chip_timer_callback(void *data) 
+void chip_timer_callback(void *data)
 {
   chip_data_t *chip_data = (chip_data_t*)data;
   float moisture = attr_read(chip_data->moisture);
