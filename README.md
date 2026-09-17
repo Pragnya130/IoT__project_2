@@ -1,4 +1,4 @@
-# project_2
+# Project_2
 # IoT-Based Smart Agriculture Monitoring
 
 ## Problem Statement
